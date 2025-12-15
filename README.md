@@ -80,7 +80,7 @@ Open the file `wp-config.php` in a text editor and update the following lines:
 ```php
 define('DB_NAME', 'final project_3');   // Database name
 define('DB_USER', 'root');              // Database username (default in XAMPP)
-define('DB_PASSWORD', '');              // Database password (default empty) ?>
+define('DB_PASSWORD', '');              // Database password (default empty) ```php
 
 Save the file.
 
