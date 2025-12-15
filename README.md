@@ -98,11 +98,12 @@ Anyone who downloads the project must configure wp-config.php locally as describ
 
 Ensure that the project folder is inside htdocs so XAMPP can detect it.
 
-🖼️ Screenshots / Demo
-Since the project supports English and Arabic (via Polylang plugin) and is fully functional, here is a demo video showcasing the website in action:
+## 🖼️ Screenshots / Demo
 
-🎥 Watch Demo Video
-https://youtu.be/7DfYRU2K6dE?si=_AIroLulCS0MXuJY
+Since the project supports **English and Arabic** (via Polylang plugin) and is fully functional,  
+here is a demo video showcasing the website in action:
+
+🎥 [Watch Demo Video](https://youtu.be/7DfYRU2K6dE?si=_AIroLulCS0MXuJY)
 
 ## Author
 Ahmed T. Abdelwahed
