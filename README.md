@@ -104,5 +104,5 @@ Since the project supports English and Arabic (via Polylang plugin) and is fully
 🎥 Watch Demo Video
 https://youtu.be/7DfYRU2K6dE?si=_AIroLulCS0MXuJY
 
-Author
+## Author
 Ahmed T. Abdelwahed
