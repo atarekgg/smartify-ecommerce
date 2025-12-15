@@ -1,6 +1,6 @@
 # Smartify – Electronics E-Commerce Website
 
-Smartify is a WordPress-based e-commerce website designed for selling electronic devices such as laptops, smartphones, and smart watches. This project was developed as a graduation project. All website content is in Arabic.
+Smartify is a WordPress-based e-commerce website designed for selling electronic devices such as laptops, smartphones, and smart watches. This project was developed as a graduation project. The website supports multiple languages (English and Arabic) using the Polylang plugin
 
 ---
 
