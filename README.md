@@ -73,29 +73,33 @@ C:\xampp\htdocs\final project_3
 2. Open the file `wp-config.php` in a text editor (e.g., Notepad)
 3. Find and change the following lines:
 
+## Step 6: Configure `wp-config.php`
+
+Open the file `wp-config.php` in a text editor and update the following lines:
+
 ```php
 define('DB_NAME', 'final project_3');   // Database name
-define('DB_USER', 'root');       // Database username (default in XAMPP)
-define('DB_PASSWORD', '');       // Database password (default empty)
-Save the file
+define('DB_USER', 'root');              // Database username (default in XAMPP)
+define('DB_PASSWORD', '');              // Database password (default empty)
+Save the file.
 
 Step 7: Run the Website
-Open your browser
-Go to: http://localhost/final project_3
-You should now see the Smartify website fully working in Arabic
+Open your browser and go to: http://localhost/final project_3 You should now see the Smartify website fully working in Arabic.
 
-# Notes
-- The website content is originally in **English**.
-- A plugin is used to display the site in Arabic if needed.
-- Anyone who downloads the project must configure `wp-config.php` locally as described above.
-- Ensure that the project folder is inside `htdocs` so XAMPP can detect it.
+Notes
+The website content is originally in English.
 
-## 🖼️ Screenshots / Demo
+A plugin (Polylang) is used to display the site in Arabic if needed.
 
-Since the project supports **English and Arabic** (via Polylang plugin) and is fully functional,  
-here is a demo video showcasing the website in action:
+Anyone who downloads the project must configure wp-config.php locally as described above.
 
-🎥 [Watch Demo Video] (https://youtu.be/7DfYRU2K6dE?si=_AIroLulCS0MXuJY)
+Ensure that the project folder is inside htdocs so XAMPP can detect it.
+
+🖼️ Screenshots / Demo
+Since the project supports English and Arabic (via Polylang plugin) and is fully functional, here is a demo video showcasing the website in action:
+
+🎥 Watch Demo Video
+https://youtu.be/7DfYRU2K6dE?si=_AIroLulCS0MXuJY
 
 Author
-Ahmed T Abdelwahed
+Ahmed T. Abdelwahed
